@@ -1,0 +1,6 @@
+{
+  "name": "Karter'OS",
+  "description": "Sistema de gestão de alta performance para oficinas mecânicas modernas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
